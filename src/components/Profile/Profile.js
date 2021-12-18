@@ -1,4 +1,5 @@
 import PropTypes from "prop-types";
+import "./Profile.css";
 
 function Profile({ username, tag, location, avatar, stats }) {
   return (
